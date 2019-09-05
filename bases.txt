@@ -1,0 +1,14 @@
+Sites
+
+-----------------------------------------------------------------------------------
+github.com (compte)
+gitforwindows.org (appli)
+
+
+Commandes
+------------------------------------------------------------------------------------
+git init ## initialise un projet GIT (à faire dans le répertoire du projet)
+
+git config -1 ## visualiser 
+
+git init ## initialise
